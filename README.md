@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src=" https://media1.tenor.com/m/NZqiUoAnAFsAAAAC/cat-computer.gif"  />
+<img align="right" height="100" src="https://tenor.com/view/cat-gif-26024704"  />
 
 ###
 
