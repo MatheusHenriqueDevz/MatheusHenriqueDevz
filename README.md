@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://tenor.com/view/cat-gif-26024704"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo3dDBmMThmc3NyYW1iemhlZDF5NWlrdWhsN3kyOXFmeGl5djR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
