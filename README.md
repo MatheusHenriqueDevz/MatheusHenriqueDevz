@@ -6,7 +6,7 @@
 ### 
 
 ### Olá! Sou um apaixonado por tecnologia e novas experiências.  
-Atualmente foco no desenvolvimento das minhas habilidades nas tecnologias, troubleshoot, e adquirindo conhecimento em desenvolvimento de software/web por meio da FATEC, cursos, palestras e eventos.
+Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com foco em backend e cybersecurity. Tenho me aprofundado em Java, estruturas de dados, algoritmos e boas práticas de segurança, buscando construir uma base sólida para atuar com eficiência e responsabilidade no desenvolvimento de soluções robustas.
 
 ### 
 
