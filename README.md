@@ -67,6 +67,8 @@ Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com
   [![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,linux,windows,git,mysql&perline=4)](https://skillicons.dev)
 </div>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6814ec0284e5758057c53c96?variant=dark" alt="roadmap.sh"/></a>
+
 ### 
 
 <br clear="both" />
