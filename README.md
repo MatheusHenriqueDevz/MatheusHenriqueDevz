@@ -23,7 +23,6 @@ Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com
  <div align="center">
  <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHenriqueDevz/MatheusHenriqueDevz/output/github-contribution-grid-snake-dark.svg">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6814ec0284e5758057c53c96?variant=dark" alt="roadmap.sh"/></a>
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusHenriqueDevz/MatheusHenriqueDevz/output/github-contribution-grid-snake-dark.svg">
    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusHenriqueDevz/MatheusHenriqueDevz/output/github-contribution-grid-snake.svg">
  </picture>
@@ -69,5 +68,13 @@ Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com
 </div>
 
 ### 
+
+## Study
+
+###
+
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6814ec0284e5758057c53c96?variant=dark" alt="roadmap.sh"/></a>
+
+ ###
 
 <br clear="both" />
