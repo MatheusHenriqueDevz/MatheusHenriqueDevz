@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=500&size=26&letterSpacing=0.2rem&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!;Aproveite+a+estadia!)](https://git.io/typing-svg)
 
-
-# About me | Matheus Henrique
+<h1 align=center>Matheus Henrique</h1>
 
 ### 
 
@@ -37,21 +36,16 @@ Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com
 ### 
 
 <div align="left">
-  
   <a href="https://www.linkedin.com/in/matheus-henrique-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"/>
   </a>
-  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"/>
-  
   <a href="https://discord.com/channels/@me/825103275056955502" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="45" alt="discord logo"/>
   </a>
-  
   <a href="https://www.instagram.com/teuz.henri?igsh=MWNwNGRrM291bmZpdQ==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="45" alt="instagram logo"/>
   </a>
-  
 </div>
 
 ### 
@@ -60,6 +54,15 @@ Sou estudante de Desenvolvimento de Sistemas Multiplataforma (DSM) na FATEC, com
 
 ###
 
+<h3 align=left>Back-End</h3>
+
+###
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java, mysql, python" />
+  </a>
+</p>
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo3dDBmMThmc3NyYW1iemhlZDF5NWlrdWhsN3kyOXFmeGl5djR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
 <div align="left">
